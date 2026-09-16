@@ -91,8 +91,6 @@ I'm a final-year Information Technology student focused on **cybersecurity, dete
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plastma65&show_icons=true&theme=default&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=plastma65&hide_border=true)
 
 </div>
