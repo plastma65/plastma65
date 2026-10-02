@@ -53,7 +53,7 @@ I learn primarily through hands-on labs, CTFs, security projects, and by rebuild
 | 🛰️ **[University Threat Detection](https://github.com/plastma65/University_Threat_Detection-)** | AI-assisted multi-source log analysis for detecting security threats in a university environment. |
 | 🎯 **[HunterSecV1](https://github.com/plastma65/HunterSecV1)** | Experimental AI-assisted security lab project for authorized CTF and training environments. |
 | 🌙 **[luna-vi-companion](https://github.com/plastma65/luna-vi-companion)** | Offline Vietnamese AI assistant exploring local LLMs, RAG, and long-term memory. |
-| ✉️ **Phishing & Anomalous Email Detection** | Machine-learning research project for identifying anomalous and phishing emails. |
+| ✉️ **[Phishing & Anomalous Email Detection](https://github.com/plastma65/Ph-n-lo-i-email-v-s-i-n-tho-i-b-ng-m-h-nh-h-c-m-y)** | Machine-learning research project for identifying anomalous and phishing emails. |
 
 ## 🧭 Learning Roadmap
 
